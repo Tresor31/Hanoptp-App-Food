@@ -1,0 +1,185 @@
+{
+    "banner": [
+      "http://tutofox.com/foodapp//banner/banner-1.jpg",
+      "http://tutofox.com/foodapp//banner/banner-2.jpg",
+      "http://tutofox.com/foodapp//banner/banner-3.png"
+    ],
+    "categories": [
+      {
+        "id": 1,
+        "name": "Ptats traditionnels",
+        "color": "#fbc831",
+        "image": "http://tutofox.com/foodapp//categories/american.png"
+      },
+      {
+        "id": 2,
+        "name": "Cuisine occidentale",
+        "color": "#fbc831",
+        "image": "http://tutofox.com/foodapp//categories/american.png"
+      },
+      {
+        "id": 3,
+        "name": "Burger",
+        "color": "#9fd236",
+        "image": "http://tutofox.com/foodapp//categories/burger.png"
+      },
+      {
+        "id": 4,
+        "name": "Drink",
+        "color": "#f2f2f2",
+        "image": "http://tutofox.com/foodapp//categories/drink.png"
+      }
+    ],
+    "food": [
+      {
+        "name": "Pho Hanoi",
+        "price": 40000,
+        "categorie": 1,
+        "image": "http://www.hanopto.com/wp-content/uploads/2020/07/phohanoi-300x200.jpg"
+      },
+      {
+        "name": "Bun Cha",
+        "price": 90000,
+        "categorie": 1,
+        "image": "http://www.hanopto.com/wp-content/uploads/2020/07/buncha-300x200.jpg"
+      },
+      {
+        "name": "Banh mi",
+        "price": 35000,
+        "categorie": 1,
+        "image": "http://www.hanopto.com/wp-content/uploads/2020/07/banhmi-300x200.jpg"
+      },
+      {
+        "name": "Bun rieu cua",
+        "price": 55000,
+        "categorie": 1,
+        "image": "http://www.hanopto.com/wp-content/uploads/2020/07/bunrieucua-300x201.jpg"
+      },
+      {
+        "name": "Cha ca",
+        "price": 250000,
+        "categorie": 1,
+        "image": "http://www.hanopto.com/wp-content/uploads/2020/07/chaca.jpg"
+      },
+      {
+        "name": "Pho Cuon",
+        "price": 55000,
+        "categorie": 1,
+        "image": "http://www.hanopto.com/wp-content/uploads/2020/07/phocuon.jpg"
+      },
+      {
+        "name": "Xôi xeo",
+        "price": 15000,
+        "categorie": 1,
+        "image": "https://media.ex-cdn.com/EXP/media.phunutoday.vn/files/upload_images/2016/05/03/nau-xoi-xeo-1-phunutoday_vn.jpg"
+      },
+      {
+        "name": "Banh xeo",
+        "price": 70000,
+        "categorie": 1,
+        "image": "http://www.hanopto.com/wp-content/uploads/2020/07/banhxeo.jpg"
+      },
+      {
+        "name": "Banh cuon",
+        "price": 40000,
+        "categorie": 1,
+        "image": "http://www.hanopto.com/wp-content/uploads/2020/07/banhcuon.jpg"
+      },
+      {
+        "name": "Bun Thang",
+        "price": 50000,
+        "categorie": 1,
+        "image": "http://www.hanopto.com/wp-content/uploads/2020/07/bunthang.jpg"
+      },        
+      {
+        "name": "Beef Grill",
+        "price": 310000,
+        "categorie": 2,
+        "image": "http://tutofox.com/foodapp//food/american/beef-grill.png"
+      },
+      {
+        "name": "Chicken Picatta",
+        "price": 30000,
+        "categorie": 2,
+        "image": "http://tutofox.com/foodapp//food/american/chicken-piccata.png"
+      },
+      {
+        "name": "Chicken Romesco",
+        "price": 30000,
+        "categorie": 2,
+        "image": "http://tutofox.com/foodapp//food/american/chicken-romesco.png"
+      },
+      {
+        "name": "Chicken Grill",
+        "price": 350000,
+        "categorie": 2,
+        "image": "http://tutofox.com/foodapp//food/american/chicken-grill.png"
+      },
+      {
+        "name": "Salmon Grill",
+        "price": 400000,
+        "categorie": 2,
+        "image": "http://tutofox.com/foodapp//food/american/salmon-grill.png"
+      },
+      {
+        "name": "Salmon Romesco",
+        "price": 500000,
+        "categorie": 2,
+        "image": "http://tutofox.com/foodapp//food/american/salmon-romesco.png"
+      },
+      {
+        "name": "Bun Cha Burger",
+        "price": 160000,
+        "categorie": 3,
+        "image": "http://tutofox.com/foodapp//food/burger/burger-1.png"
+      },
+      {
+        "name": "Sunkat",
+        "price": 200000,
+        "categorie": 3,
+        "image": "http://tutofox.com/foodapp//food/burger/burger-2.png"
+      },
+      {
+        "name": "Chops",
+        "price": 160000,
+        "categorie": 3,
+        "image": "http://tutofox.com/foodapp//food/burger/burger-3.png"
+      },
+      {
+        "name": "Burger Tay Ho",
+        "price": 160000,
+        "categorie": 3,
+        "image": "http://tutofox.com/foodapp//food/burger/burger-4.png"
+      },
+      {
+        "name": "Shebeen",
+        "price": 160000,
+        "categorie": 3,
+        "image": "http://tutofox.com/foodapp//food/burger/burger-6.png"
+      },
+      {
+        "name": "Coca cola",
+        "price": 20000,
+        "categorie": 4,
+        "image": "http://tutofox.com/foodapp//food/drink/cocacola.png"
+      },
+      {
+        "name": "Pepsi",
+        "price": 20000,
+        "categorie": 4,
+        "image": "http://tutofox.com/foodapp//food/drink/pepsi.png"
+      },
+      {
+        "name": "Quatro",
+        "price": 2,
+        "categorie": 4,
+        "image": "http://tutofox.com/foodapp//food/drink/quatro.png"
+      },
+      {
+        "name": "Sprite",
+        "price": 15000,
+        "categorie": 4,
+        "image": "http://tutofox.com/foodapp//food/drink/sprite.png"
+      }
+    ]
+  }
